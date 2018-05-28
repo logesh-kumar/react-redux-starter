@@ -56,3 +56,9 @@ typings/
 
 # dotenv environment variables file
 .env
+
+#bundle analyzer
+report.html
+
+#build folder
+build
