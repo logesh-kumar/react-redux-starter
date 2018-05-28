@@ -1,0 +1,18 @@
+{
+	"presets": [
+		[
+			"env",
+			{
+				"targets": {
+					"node": "current"
+				}
+			}
+		],
+		"stage-2",
+		"react"
+	],
+	"plugins": [
+		"react-hot-loader/babel",
+		"transform-async-to-generator"
+	]
+}
